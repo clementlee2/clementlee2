@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clementlee2
+- 👋 Hi, I’m Clement
 - 👀 I’m interested in data, prediction and E-commerce analytics 
 - 🌱 I’m currently learning why highly valued tokens are initially short in supply  
 - 📫 How to reach me: clementlee409@outlook.com 
