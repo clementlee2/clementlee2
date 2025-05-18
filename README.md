@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clement
 - 👀 I’m interested in data, prediction and E-commerce analytics 
-- 🌱 I’m currently learning why highly valued tokens are initially short in supply  
+- 🌱 I’m currently learning about Cloud Computing
 - 📫 How to reach me: clementlee409@outlook.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the clarinet and piano
